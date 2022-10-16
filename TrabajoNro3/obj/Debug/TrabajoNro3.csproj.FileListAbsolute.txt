@@ -1,0 +1,13 @@
+F:\C#\TrabajoNro3\TrabajoNro3\bin\Debug\TrabajoNro3.exe.config
+F:\C#\TrabajoNro3\TrabajoNro3\bin\Debug\TrabajoNro3.exe
+F:\C#\TrabajoNro3\TrabajoNro3\bin\Debug\TrabajoNro3.pdb
+F:\C#\TrabajoNro3\TrabajoNro3\obj\Debug\TrabajoNro3.csproj.AssemblyReference.cache
+F:\C#\TrabajoNro3\TrabajoNro3\obj\Debug\TrabajoNro3.csproj.SuggestedBindingRedirects.cache
+F:\C#\TrabajoNro3\TrabajoNro3\obj\Debug\TrabajoNro3.EjerPro1.resources
+F:\C#\TrabajoNro3\TrabajoNro3\obj\Debug\TrabajoNro3.Properties.Resources.resources
+F:\C#\TrabajoNro3\TrabajoNro3\obj\Debug\TrabajoNro3.csproj.GenerateResource.cache
+F:\C#\TrabajoNro3\TrabajoNro3\obj\Debug\TrabajoNro3.csproj.CoreCompileInputs.cache
+F:\C#\TrabajoNro3\TrabajoNro3\obj\Debug\TrabajoNro3.exe
+F:\C#\TrabajoNro3\TrabajoNro3\obj\Debug\TrabajoNro3.pdb
+F:\C#\TrabajoNro3\TrabajoNro3\obj\Debug\TrabajoNro3.EjerPro2.resources
+F:\C#\TrabajoNro3\TrabajoNro3\obj\Debug\TrabajoNro3.EjerPro3.resources
